@@ -338,7 +338,7 @@ public class No_9_XpathLocator {
 
     public static void main(String[] args) {
 
-        //approach1();
+        //visibleScreen();
         //approach2();
         //approach3();
         //approach4();

@@ -44,7 +44,7 @@ public class No_6_MaximumScreen {
 
     public static void main(String[] args) {
 
-        //approach1();
+        //visibleScreen();
         //approach2();
         approach3();
 

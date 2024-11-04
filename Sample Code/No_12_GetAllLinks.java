@@ -44,7 +44,7 @@ public class No_12_GetAllLinks {
 
 
     public static void main(String[] args) {
-        //approach1();
+        //visibleScreen();
         approach2();
 
     }

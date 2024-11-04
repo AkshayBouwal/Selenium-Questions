@@ -270,7 +270,7 @@ public class No_10_CSS_Selector {
 
     public static void main(String[] args) {
 
-        //approach1();
+        //visibleScreen();
         //approach2();
         //approach3();
         approach4();

@@ -85,7 +85,7 @@ public class No_14_iFrames {
 
     public static void main(String[] args) {
 
-        //approach1();
+        //visibleScreen();
         approach2();
 
 
